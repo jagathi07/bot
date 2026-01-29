@@ -6,7 +6,7 @@ from datetime import datetime
 # ---------------- DATA ----------------
 timetable = {
     "monday": ["9AM - Math", "11AM - DSA", "2PM - Physics"],
-    "tuesday": ["10AM - DBMS", "1PM - DSA Lab"],
+    "tuesday": ["10AM - DBMS", "1PM - DSA AI"],
     "wednesday": ["9AM - Math", "12PM - OS"],
     "thursday": ["10AM - DSA", "2PM - DBMS"],
     "friday": ["9AM - Physics", "11AM - Math"]
